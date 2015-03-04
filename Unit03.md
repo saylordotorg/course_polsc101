@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC101: Introduction to Politics"
+course_description: "An introductory survey of the basic principles, terminology, and methods of political science. Combines historical study of the discipline’s greatest thinkers with analysis of contemporary issues."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Ideologies** <span id="3"></span> 
 **In this unit, we will be looking at the ideologies of the state and
 its citizens.  Some of these ideologies reflect more on the state,

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC101: Introduction to Politics"
+course_description: "An introductory survey of the basic principles, terminology, and methods of political science. Combines historical study of the discipline’s greatest thinkers with analysis of contemporary issues."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: World Politics and Globalization** <span id="6"></span> 
 **This unit traces the emergence of a world system of states from the
 Treaty of Westphalia (1648), which first standardized the conditions for

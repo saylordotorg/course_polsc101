@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC101: Introduction to Politics"
+course_description: "An introductory survey of the basic principles, terminology, and methods of political science. Combines historical study of the discipline’s greatest thinkers with analysis of contemporary issues."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: The State** <span id="4"></span> 
 *In this unit, we will look at the state, a relatively new creation.
  What is a state?  What is the difference between a nation and a state?

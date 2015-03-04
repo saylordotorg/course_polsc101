@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC101: Introduction to Politics"
+course_description: "An introductory survey of the basic principles, terminology, and methods of political science. Combines historical study of the discipline’s greatest thinkers with analysis of contemporary issues."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "POLSC101: Introduction to Politics"
 --------------------------------------------------------
 

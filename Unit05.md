@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC101: Introduction to Politics"
+course_description: "An introductory survey of the basic principles, terminology, and methods of political science. Combines historical study of the discipline’s greatest thinkers with analysis of contemporary issues."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Political Institutions** <span id="5"></span> 
 *This unit looks at the various forms of government a country can adopt
 and how government forms the foundations of the institutions that

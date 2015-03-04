@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC101: Introduction to Politics"
+course_description: "An introductory survey of the basic principles, terminology, and methods of political science. Combines historical study of the discipline’s greatest thinkers with analysis of contemporary issues."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Politics: Foundational Concepts** <span id="1"></span> 
 *Our study of politics will begin with a review of the basic principles
 of politics and various perspectives on how we define politics and its

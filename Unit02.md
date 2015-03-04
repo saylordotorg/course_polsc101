@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC101: Introduction to Politics"
+course_description: "An introductory survey of the basic principles, terminology, and methods of political science. Combines historical study of the discipline’s greatest thinkers with analysis of contemporary issues."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Participation** <span id="2"></span> 
 *In this unit, we will look at the participation of citizens in their
 governments.  We are all born into a political culture, and our
